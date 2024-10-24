@@ -42,4 +42,4 @@ if __name__ == '__main__':
 
 # To write to db, run curl command from your local machine
 #  curl -X POST http://localhost:5000/write -H "Content-Type: application/json" \
-#       -d '{"name": "Akhilesh", "job_profile": "writer", "phone": "7777788888"}'
+#       -d '{"name": "Sijo", "job_profile": "writer", "phone": "7777788888"}'
